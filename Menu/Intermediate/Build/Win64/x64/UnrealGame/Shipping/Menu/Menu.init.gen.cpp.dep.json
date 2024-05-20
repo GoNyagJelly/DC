@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kwon\\desktop\\dc\\menu\\intermediate\\build\\win64\\unrealgame\\inc\\menu\\uht\\menu.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kwon\\desktop\\dc\\menu\\intermediate\\build\\win64\\x64\\menu\\shipping\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kwon\\desktop\\dc\\menu\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\menu\\definitions.menu.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

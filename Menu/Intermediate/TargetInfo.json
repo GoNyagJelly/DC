@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Menu",
+			"Path": "..\\Source\\Menu.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MenuEditor",
+			"Path": "..\\Source\\MenuEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

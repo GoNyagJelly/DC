@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Menu.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\DC\Menu\Intermediate\Build\Win64\x64\MenuEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\DC\Menu\Intermediate\Build\Win64\x64\UnrealEditor\Development\Menu\Menu.init.gen.cpp.obj"
+"D:\DC\Menu\Intermediate\Build\Win64\x64\UnrealEditor\Development\Menu\MenuCharacter.gen.cpp.obj"
+"D:\DC\Menu\Intermediate\Build\Win64\x64\UnrealEditor\Development\Menu\MenuGameMode.gen.cpp.obj"
+"D:\DC\Menu\Intermediate\Build\Win64\x64\UnrealEditor\Development\Menu\Menu.cpp.obj"
+"D:\DC\Menu\Intermediate\Build\Win64\x64\UnrealEditor\Development\Menu\MenuGameMode.cpp.obj"
+"D:\DC\Menu\Intermediate\Build\Win64\x64\UnrealEditor\Development\Menu\MenuCharacter.cpp.obj"
+"D:\DC\Menu\Intermediate\Build\Win64\x64\UnrealEditor\Development\Menu\Default.rc2.res"
+/OUT:"D:\DC\Menu\Intermediate\Build\Win64\x64\UnrealEditor\Development\Menu\UnrealEditor-Menu.lib"

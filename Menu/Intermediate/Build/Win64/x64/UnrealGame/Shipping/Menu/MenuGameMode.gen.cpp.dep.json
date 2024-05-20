@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kwon\\desktop\\dc\\menu\\intermediate\\build\\win64\\unrealgame\\inc\\menu\\uht\\menugamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kwon\\desktop\\dc\\menu\\intermediate\\build\\win64\\x64\\menu\\shipping\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kwon\\desktop\\dc\\menu\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\menu\\definitions.menu.h",
+            "c:\\users\\kwon\\desktop\\dc\\menu\\source\\menu\\menugamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\kwon\\desktop\\dc\\menu\\intermediate\\build\\win64\\unrealgame\\inc\\menu\\uht\\menugamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

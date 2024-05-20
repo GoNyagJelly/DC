@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\kdt1\\multiplay\\menu\\intermediate\\build\\win64\\unrealeditor\\inc\\menu\\uht\\menu.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\kdt1\\multiplay\\menu\\intermediate\\build\\win64\\x64\\menueditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\kdt1\\multiplay\\menu\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\menu\\definitions.menu.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
